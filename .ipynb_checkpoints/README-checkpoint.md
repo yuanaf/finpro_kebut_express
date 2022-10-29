@@ -18,7 +18,7 @@ Kolom Prior_purchases dan Discount_offered memiliki **outlier**.
 ![heatmap](heatmap.jpg)\
 Tidak ada dua feature yang berkorelasi kuat. Korelasi antar feature rata-rata bersifat sedang yaitu feature `Discount_offered` dengan `Weight`(korelasi negatif) dan feature `Cost_of_the_Product` dengan `Customer_care_calls` (korelasi positif).
 
-- **Korelasi Feature dengan Target**
+- **Korelasi Feature dengan Target**\
 ![heatmap](heatmap.jpg)\
 Feature `Discount_offered` dengan `Late` memiliki nilai korelasi sebesar 0.40 bersifat positif.\
 Feature `Weight` dengan `Late` memiliki nilai korelasi sebesar 0.27 bersifat negatif.
